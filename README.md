@@ -5,7 +5,7 @@
 
 ## 💻 Programming languages 
 
-![C#](https://img.shields.io/badge/csharp-%66007D9C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=66007d)
+![C#](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23121011.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Assembler](https://img.shields.io/badge/assembler-%23121011.svg?style=for-the-badge&logo=assemblyscript&logoColor=blue)
