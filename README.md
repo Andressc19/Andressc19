@@ -1,4 +1,4 @@
-## About  
+## About me  
 👋 Hey there, I'm **Andrés**, Systems Engineering student 📚  
 
 💻 Passionate about Front & Back  
