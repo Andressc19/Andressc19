@@ -1,3 +1,11 @@
+## About  
+👋 Hey there, I'm **Andrés**, Systems Engineering student 📚  
+
+💻 Passionate about Front & Back  
+🚀 Always exploring new tech  
+🛠️ Building projects to learn  
+⚙️ Diving into low-level stuff with Assembly
+☕ Powered by (lots of) coffee
 
 ## 💻 Programming languages 
 
