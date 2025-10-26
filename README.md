@@ -39,7 +39,6 @@
 ![Firestore](https://img.shields.io/badge/firestore-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ## 🌀 Others
 
